@@ -1,0 +1,55 @@
+ 43  sudo apt-get install -y tree wget unzip
+   44  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip
+   45  unzip planets.zip
+   46  sudo apt install unzip
+   47  unzip planets.zip
+   48  eog planets
+   49  sudo apt install eog
+   50  eog planets
+   51  pwd
+   52  ls
+   53  cd planets
+   54  mkdir real fictional inhabited
+   55  ls
+   56  mkdir real/telluric real/gas-giants real/dwarf-planets
+   57  ls real
+   58  mv earth venus m* real/telluric/
+   59  ls real/telluric/
+   60  mv e* v* real/telluric/
+   61  ls real/telluric/
+   62  mv j* n* u* s* real/gas-giants/
+   63  ls real/gas-giants/
+   64  mv p* real/dwarf-planets/
+   65  ls real/dwarf-planets/
+   66  mv c* a* fictional/
+   67  ls fictional
+   68  ls
+   69  cd real
+   70  ls
+   71  cd telluric
+   72  ls
+   73  cp e* planets/inhabited/
+   74  cp e* planets/inhabited
+   75  cd planets
+   76  cd ..
+   77  cp real/telluric/e* inhabited/earth2
+   78  cp fictional/co* inhabited/coruscant2
+   79  cp fictional/cy* inhabited/cybertron2
+   80  cp fictional/a* inhabited/arrakis2
+   81  cd inhabited
+   82  ls
+   83  cd ..
+   84  cd real
+   85  rm dwarf-planets
+   86  rm -r dwarf-planets
+   87  ls
+   88  cd ..
+   89  tree
+   90  sudo apt install tree
+   91  tree
+   92  sudo apt-get install tree
+   93  tree
+   94  sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu $(lsb_release -sc) main universe restricted multiverse"
+   95  sudo apt-get install tree
+   96  tree
+   97  history
