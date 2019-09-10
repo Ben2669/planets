@@ -1,0 +1,46 @@
+ 131  ls
+  132  cd quetes
+  133  ls
+  134  cd shell
+  135  ls
+  136  cd planets
+  137  ls
+  138  cd inhabited
+  139  ls
+  140  rm a*
+  141  cd
+  142  ls
+  143  cd quetes
+  144  ls
+  145  cd shell
+  146  ls
+  147  cd planets
+  148  ls
+  149  cd inhabited
+  150  ls
+  151  rm c*
+  152  ls
+  153  rm e*
+  154  cd ..
+  155  ls
+  156  cp fictional/arrakis.jpeg inhabited/
+  157  cd fictional
+  158  ls
+  159  cd ..
+  160  cd inhabited
+  161  ls
+  162  cd ..
+  163  cp fictional/coruscant.jpeg inhabited/
+  164  cp fictional/cybertron.jpeg inhabited/
+  165  cp real/telluric/earth.jpeg inhabited/
+  166  cd inhabited
+  167  ls
+  168  cd ..
+  169  cd fictional
+  170  ls
+  171  cd ..
+  172  ls
+  173  cd inhabited
+  174  cd ..
+  175  tree
+  176  history
