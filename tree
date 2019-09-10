@@ -5,10 +5,10 @@ benjamin@DESKTOP-T5E3453:~/quetes/shell/planets$ tree
 │   ├── coruscant.jpeg
 │   └── cybertron.jpeg
 ├── inhabited
-│   ├── arrakis2
-│   ├── coruscant2
-│   ├── cybertron2
-│   └── earth2
+│   ├── arrakis.jpeg
+│   ├── coruscant.jpeg
+│   ├── cybertron.jpeg
+│   └── earth.jpeg
 └── real
     ├── gas-giants
     │   ├── jupiter.jpeg
